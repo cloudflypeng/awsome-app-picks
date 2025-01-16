@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="#chinese">中文</a> | <a href="#english">English</a>
+  <a href="https://github.com/cloudflypeng/awsome-app-picks">中文</a> | <a href="https://github.com/cloudflypeng/awsome-app-picks/blob/main/README.en.md">English</a>
 </div>
 
 <!-- Chinese Version -->
